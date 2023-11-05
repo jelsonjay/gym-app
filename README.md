@@ -1,2 +1,2 @@
 # gym-app
-This is a responsive gym website design using HTML CSS and JavaScript
+Rresponsive gym website design using HTML CSS & JavaScript
